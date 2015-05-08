@@ -56,6 +56,9 @@ class ConditionalsTests(unittest.TestCase):
 
     def test_is_list(self):
         pass
+    
+    def test_is_tuple(self):
+        pass
 
 
 class ListTest(unittest.TestCase):
